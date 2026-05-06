@@ -87,6 +87,10 @@ Temps max : 60 minutes
 4. mixed baby greens with oranges grapefruit and avocado(15 min)
 5. buttercream frosting(30 min)
 
+# Demonstration
+
+Une video de demonstration du systeme est disponible ici :[voir la video](image/video_demo.mp4)
+
 # Analyse des resultats
 
 Pour la recette "crab filled crescent snacks" avec un temps maximum de 60 minutes, les recommendations obteneus sont generees grace au model TF-IDF combine a la similarite cosinus.
@@ -94,8 +98,8 @@ Le systeme analyse principalement deux types d'informations : les tags et les in
 
 # Exemple de resultats en image
 
-[recommendation](...image/recommendation.png)
-[interface](...image/interface.png)
+[recommendation](image/recommendation.png)
+[interface](image/interface.png)
 
 # Limites du système
 
