@@ -98,8 +98,8 @@ Le systeme analyse principalement deux types d'informations : les tags et les in
 
 # Exemple de resultats en image
 
-[recommendation](image/recommendation.png)
-[interface](image/interface.png)
+![recommendation](image/recommendation.png)
+![interface](image/interface.png)
 
 # Limites du système
 
