@@ -89,7 +89,7 @@ Temps max : 60 minutes
 
 # Demonstration
 
-Une video de demonstration du systeme est disponible ici :[voir la video](image/video_demo.mp4)
+Une video de demonstration du systeme est disponible ici (A telecharger) :[voir la video](image/video_demo.mp4)
 
 # Analyse des resultats
 
