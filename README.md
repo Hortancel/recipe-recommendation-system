@@ -26,7 +26,7 @@ pip install streamlit pandas scikit-learn jupyter notebook
 
 # Les instructions pour lancer le projet
 
-streamlit run app.py
+streamlit run app/app.py
 
 # Les fonctionalites realisees
 
