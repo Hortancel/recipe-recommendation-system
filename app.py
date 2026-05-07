@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-df = pd.read_csv('data/recipes_small.csv', encoding='latin-1', on_bad_lines='skip')
+df = pd.read_csv('dataset/recipes_small.csv', encoding='latin-1', on_bad_lines='skip')
 
 df = df.sample(500, random_state=42).reset_index(drop=True)
 
